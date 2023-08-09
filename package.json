@@ -1,6 +1,7 @@
 {
-	"author": "Pooja Sahu",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Pooja Sahu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
